@@ -1,0 +1,19 @@
+{
+  "projects": {
+    "default": "local-artist-c8427"
+  },
+  "targets": {
+    "local-artist-c8427": {
+      "hosting": {
+        "frontend": {
+          "public": "../frontend/out",
+          "ignore": [
+            "firebase.json",
+            "**/.*",
+            "**/node_modules/**"
+          ]
+        }
+      }
+    }
+  }
+}
