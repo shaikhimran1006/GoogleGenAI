@@ -1,0 +1,138 @@
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="600" height="600" fill="#F8F4F0"/>
+  
+  <!-- Border -->
+  <rect x="15" y="15" width="570" height="570" fill="none" stroke="#D4540C" stroke-width="2"/>
+  
+  <!-- Main saree body - Deep Pink/Magenta -->
+  <path d="M 80 80 Q 300 70 520 80 L 520 420 Q 300 430 80 420 Z" fill="#C41E3A" opacity="0.95"/>
+  
+  <!-- Blue pallu section -->
+  <path d="M 80 80 Q 180 75 220 80 L 220 280 Q 180 285 80 280 Z" fill="#1E3A8A"/>
+  
+  <!-- Golden border patterns -->
+  <!-- Main horizontal golden border -->
+  <rect x="80" y="380" width="440" height="25" fill="#D4AF37"/>
+  <rect x="85" y="385" width="430" height="15" fill="#B8860B"/>
+  
+  <!-- Vertical golden strips -->
+  <rect x="210" y="80" width="8" height="200" fill="#D4AF37"/>
+  <rect x="215" y="80" width="3" height="200" fill="#B8860B"/>
+  
+  <!-- Traditional motifs on pink section -->
+  <!-- Row 1 - Diamond patterns -->
+  <g fill="#FFD700" opacity="0.9">
+    <polygon points="130,120 140,130 130,140 120,130"/>
+    <polygon points="160,120 170,130 160,140 150,130"/>
+    <polygon points="130,160 140,170 130,180 120,170"/>
+    <polygon points="160,160 170,170 160,180 150,170"/>
+    
+    <!-- More scattered motifs -->
+    <polygon points="280,120 290,130 280,140 270,130"/>
+    <polygon points="310,150 320,160 310,170 300,160"/>
+    <polygon points="350,130 360,140 350,150 340,140"/>
+    <polygon points="380,110 390,120 380,130 370,120"/>
+    <polygon points="420,140 430,150 420,160 410,150"/>
+    <polygon points="450,120 460,130 450,140 440,130"/>
+    
+    <!-- Lower section motifs -->
+    <polygon points="120,220 130,230 120,240 110,230"/>
+    <polygon points="160,240 170,250 160,260 150,250"/>
+    <polygon points="200,220 210,230 200,240 190,230"/>
+    <polygon points="280,240 290,250 280,260 270,250"/>
+    <polygon points="320,220 330,230 320,240 310,230"/>
+    <polygon points="360,250 370,260 360,270 350,260"/>
+    <polygon points="400,230 410,240 400,250 390,240"/>
+    <polygon points="440,250 450,260 440,270 430,260"/>
+    <polygon points="480,220 490,230 480,240 470,230"/>
+  </g>
+  
+  <!-- Blue section geometric patterns -->
+  <g fill="#FFD700" opacity="0.8">
+    <!-- Complex geometric border on blue section -->
+    <rect x="90" y="120" width="15" height="8" fill="#D4AF37"/>
+    <rect x="110" y="120" width="15" height="8" fill="#D4AF37"/>
+    <rect x="130" y="120" width="15" height="8" fill="#D4AF37"/>
+    <rect x="150" y="120" width="15" height="8" fill="#D4AF37"/>
+    <rect x="170" y="120" width="15" height="8" fill="#D4AF37"/>
+    <rect x="190" y="120" width="15" height="8" fill="#D4AF37"/>
+    
+    <!-- Paisley-like curved patterns -->
+    <ellipse cx="120" cy="160" rx="8" ry="15" fill="#D4AF37"/>
+    <ellipse cx="140" cy="180" rx="8" ry="15" fill="#D4AF37"/>
+    <ellipse cx="160" cy="200" rx="8" ry="15" fill="#D4AF37"/>
+    <ellipse cx="180" cy="220" rx="8" ry="15" fill="#D4AF37"/>
+  </g>
+  
+  <!-- Intricate golden zari work simulation -->
+  <g stroke="#D4AF37" stroke-width="1" fill="none" opacity="0.7">
+    <!-- Flowing vine patterns -->
+    <path d="M 250 140 Q 270 160 290 140 Q 310 120 330 140 Q 350 160 370 140"/>
+    <path d="M 250 180 Q 270 200 290 180 Q 310 160 330 180 Q 350 200 370 180"/>
+    <path d="M 250 220 Q 270 240 290 220 Q 310 200 330 220 Q 350 240 370 220"/>
+    <path d="M 250 260 Q 270 280 290 260 Q 310 240 330 260 Q 350 280 370 260"/>
+    
+    <!-- Additional flowing patterns -->
+    <path d="M 380 150 Q 400 170 420 150 Q 440 130 460 150 Q 480 170 500 150"/>
+    <path d="M 380 190 Q 400 210 420 190 Q 440 170 460 190 Q 480 210 500 190"/>
+    <path d="M 380 230 Q 400 250 420 230 Q 440 210 460 230 Q 480 250 500 230"/>
+  </g>
+  
+  <!-- Detailed golden border work -->
+  <g fill="#B8860B">
+    <!-- Border pattern details -->
+    <rect x="90" y="385" width="8" height="15"/>
+    <rect x="105" y="385" width="8" height="15"/>
+    <rect x="120" y="385" width="8" height="15"/>
+    <rect x="135" y="385" width="8" height="15"/>
+    <rect x="150" y="385" width="8" height="15"/>
+    <rect x="165" y="385" width="8" height="15"/>
+    <rect x="180" y="385" width="8" height="15"/>
+    <rect x="195" y="385" width="8" height="15"/>
+    
+    <!-- Continue pattern -->
+    <rect x="300" y="385" width="8" height="15"/>
+    <rect x="315" y="385" width="8" height="15"/>
+    <rect x="330" y="385" width="8" height="15"/>
+    <rect x="345" y="385" width="8" height="15"/>
+    <rect x="360" y="385" width="8" height="15"/>
+    <rect x="375" y="385" width="8" height="15"/>
+    <rect x="390" y="385" width="8" height="15"/>
+    <rect x="405" y="385" width="8" height="15"/>
+    <rect x="420" y="385" width="8" height="15"/>
+    <rect x="435" y="385" width="8" height="15"/>
+    <rect x="450" y="385" width="8" height="15"/>
+    <rect x="465" y="385" width="8" height="15"/>
+    <rect x="480" y="385" width="8" height="15"/>
+    <rect x="495" y="385" width="8" height="15"/>
+  </g>
+  
+  <!-- Fabric texture lines -->
+  <g stroke="#8B0000" stroke-width="0.5" opacity="0.3">
+    <line x1="80" y1="100" x2="520" y2="100"/>
+    <line x1="80" y1="120" x2="520" y2="120"/>
+    <line x1="80" y1="140" x2="520" y2="140"/>
+    <line x1="80" y1="300" x2="520" y2="300"/>
+    <line x1="80" y1="320" x2="520" y2="320"/>
+    <line x1="80" y1="340" x2="520" y2="340"/>
+    <line x1="80" y1="360" x2="520" y2="360"/>
+  </g>
+  
+  <!-- Title -->
+  <rect x="50" y="30" width="500" height="35" fill="#FFFFFF" stroke="#D4540C" stroke-width="2" rx="8"/>
+  <text x="300" y="52" font-family="serif" font-size="18" font-weight="bold" text-anchor="middle" fill="#8B0000">Premium Sambalpuri Silk Saree - Traditional Handloom</text>
+  
+  <!-- Corner decorative elements -->
+  <polygon points="40,40 50,30 60,40 50,50" fill="#D4AF37"/>
+  <polygon points="540,40 550,30 560,40 550,50" fill="#D4AF37"/>
+  <polygon points="40,560 50,550 60,560 50,570" fill="#D4AF37"/>
+  <polygon points="540,560 550,550 560,560 550,570" fill="#D4AF37"/>
+  
+  <!-- Fold lines for realism -->
+  <g stroke="#8B0000" stroke-width="1" opacity="0.2">
+    <path d="M 150 100 Q 180 120 200 100"/>
+    <path d="M 300 400 Q 330 420 350 400"/>
+    <path d="M 450 200 Q 480 220 500 200"/>
+  </g>
+</svg>

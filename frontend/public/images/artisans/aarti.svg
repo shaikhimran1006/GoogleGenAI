@@ -1,0 +1,112 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with warm home setting -->
+  <rect width="400" height="400" fill="#F5F1E8"/>
+  
+  <!-- Wall background -->
+  <rect x="0" y="0" width="400" height="300" fill="#E6D5C3"/>
+  
+  <!-- Traditional wall art/tapestry -->
+  <rect x="280" y="40" width="80" height="60" fill="#8B4513" rx="5"/>
+  <rect x="285" y="45" width="70" height="50" fill="#D2691E"/>
+  <g fill="#FFD700" opacity="0.8">
+    <circle cx="305" cy="60" r="3"/>
+    <circle cx="320" cy="60" r="3"/>
+    <circle cx="335" cy="60" r="3"/>
+    <circle cx="305" cy="75" r="3"/>
+    <circle cx="320" cy="75" r="3"/>
+    <circle cx="335" cy="75" r="3"/>
+    <circle cx="305" cy="90" r="3"/>
+    <circle cx="320" cy="90" r="3"/>
+    <circle cx="335" cy="90" r="3"/>
+  </g>
+  
+  <!-- Plant in corner -->
+  <ellipse cx="50" cy="280" rx="15" ry="20" fill="#228B22"/>
+  <rect x="45" y="280" width="10" height="20" fill="#8B4513"/>
+  
+  <!-- Floor -->
+  <rect x="0" y="300" width="400" height="100" fill="#D2B48C"/>
+  
+  <!-- Person figure - inspired by the artisan photo -->
+  <!-- Saree draped figure -->
+  <ellipse cx="200" cy="320" rx="45" ry="80" fill="#FF6347"/>
+  
+  <!-- Saree pallu (shoulder drape) -->
+  <path d="M 160 240 Q 180 230 200 240 L 200 280 Q 180 270 160 280 Z" fill="#FFD700"/>
+  
+  <!-- Blouse -->
+  <rect x="180" y="220" width="40" height="60" fill="#FF4500" rx="8"/>
+  
+  <!-- Head and face -->
+  <circle cx="200" cy="200" r="25" fill="#D2691E"/>
+  
+  <!-- Hair - traditional style -->
+  <path d="M 175 185 Q 200 175 225 185 Q 230 200 225 215 L 200 210 L 175 215 Q 170 200 175 185" fill="#2F1B14"/>
+  
+  <!-- Hair ornament/flowers -->
+  <circle cx="180" cy="190" r="3" fill="#FF69B4"/>
+  <circle cx="220" cy="190" r="3" fill="#FF69B4"/>
+  
+  <!-- Eyes -->
+  <circle cx="192" cy="195" r="2" fill="#000"/>
+  <circle cx="208" cy="195" r="2" fill="#000"/>
+  
+  <!-- Bindi -->
+  <circle cx="200" cy="190" r="1.5" fill="#DC143C"/>
+  
+  <!-- Smile -->
+  <path d="M 195 205 Q 200 210 205 205" stroke="#000" stroke-width="1" fill="none"/>
+  
+  <!-- Arms holding textile work -->
+  <ellipse cx="160" cy="260" rx="12" ry="30" fill="#D2691E" transform="rotate(-20 160 260)"/>
+  <ellipse cx="240" cy="260" rx="12" ry="30" fill="#D2691E" transform="rotate(20 240 260)"/>
+  
+  <!-- Hands -->
+  <circle cx="150" cy="280" r="8" fill="#D2691E"/>
+  <circle cx="250" cy="280" r="8" fill="#D2691E"/>
+  
+  <!-- Textile work in hands -->
+  <rect x="140" y="275" width="120" height="30" fill="#4169E1" rx="3"/>
+  <g fill="#FFD700" opacity="0.9">
+    <polygon points="160,285 170,290 160,295 150,290"/>
+    <polygon points="180,285 190,290 180,295 170,290"/>
+    <polygon points="200,285 210,290 200,295 190,290"/>
+    <polygon points="220,285 230,290 220,295 210,290"/>
+    <polygon points="240,285 250,290 240,295 230,290"/>
+  </g>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="380" height="380" fill="none" stroke="#D2691E" stroke-width="3"/>
+  
+  <!-- Name panel -->
+  <rect x="50" y="30" width="300" height="80" fill="#FFFFFF" stroke="#D2691E" stroke-width="2" rx="10" opacity="0.95"/>
+  <text x="200" y="55" font-family="serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#8B4513">Aarti Devi</text>
+  <text x="200" y="75" font-family="serif" font-size="16" text-anchor="middle" fill="#A0522D">Master Handloom Weaver</text>
+  <text x="200" y="92" font-family="serif" font-size="14" text-anchor="middle" fill="#696969">Sambalpuri Textile Specialist</text>
+  <text x="200" y="105" font-family="serif" font-size="12" text-anchor="middle" fill="#8B4513">📍 Bhubaneswar, Odisha</text>
+  
+  <!-- Decorative corner elements -->
+  <polygon points="30,30 40,20 50,30 40,40" fill="#FFD700"/>
+  <polygon points="350,30 360,20 370,30 360,40" fill="#FFD700"/>
+  <polygon points="30,370 40,360 50,370 40,380" fill="#FFD700"/>
+  <polygon points="350,370 360,360 370,370 360,380" fill="#FFD700"/>
+  
+  <!-- Traditional patterns on border -->
+  <g fill="#D2691E" opacity="0.6">
+    <rect x="15" y="150" width="8" height="8"/>
+    <rect x="15" y="165" width="8" height="8"/>
+    <rect x="15" y="180" width="8" height="8"/>
+    <rect x="15" y="195" width="8" height="8"/>
+    <rect x="15" y="210" width="8" height="8"/>
+    <rect x="15" y="225" width="8" height="8"/>
+    <rect x="15" y="240" width="8" height="8"/>
+    
+    <rect x="377" y="150" width="8" height="8"/>
+    <rect x="377" y="165" width="8" height="8"/>
+    <rect x="377" y="180" width="8" height="8"/>
+    <rect x="377" y="195" width="8" height="8"/>
+    <rect x="377" y="210" width="8" height="8"/>
+    <rect x="377" y="225" width="8" height="8"/>
+    <rect x="377" y="240" width="8" height="8"/>
+  </g>
+</svg>

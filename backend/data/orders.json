@@ -1,0 +1,12 @@
+[
+  {
+    "id": "order_1",
+    "productId": "prod_1",
+    "productTitle": "Handwoven Sambalpuri Saree",
+    "buyer": "Neha Sharma",
+    "amount": 4500,
+    "currency": "INR",
+    "status": "Delivered",
+    "orderedAt": "2025-03-20"
+  }
+]

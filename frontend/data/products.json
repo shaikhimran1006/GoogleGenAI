@@ -1,0 +1,58 @@
+[
+  {
+    "id": "prod_1",
+    "title": "Handwoven Sambalpuri Saree",
+    "slug": "sambalpuri-saree-aarti",
+    "shortDescription": "Handwoven Sambalpuri saree with temple motifs.",
+    "longDescription": "A 5.5m handwoven saree crafted by Aarti using traditional Sambalpuri technique.",
+    "price": 4500,
+    "currency": "INR",
+    "images": ["/images/products/saree1.svg","/images/products/saree2.svg"],
+    "artisanId": "artisan_1",
+    "category": "Textiles",
+    "createdAt": "2025-01-15",
+    "stock": 5
+  },
+  {
+    "id": "prod_2",
+    "title": "Hand Carved Wood Temple Idol",
+    "slug": "wood-idol-ramesh",
+    "shortDescription": "Small handcrafted wooden idol.",
+    "longDescription": "Hand-carved from sustainable teakwood. Perfect for home altars.",
+    "price": 1200,
+    "currency": "INR",
+    "images": ["/images/products/idol1.svg"],
+    "artisanId": "artisan_2",
+    "category": "Home Decor",
+    "createdAt": "2025-02-01",
+    "stock": 12
+  },
+  {
+    "id": "prod_3",
+    "title": "Handcrafted Wooden Serving Bowl",
+    "slug": "wooden-bowl-ramesh",
+    "shortDescription": "Beautifully carved wooden serving bowl.",
+    "longDescription": "Handcrafted from premium wood with traditional carving patterns. Perfect for serving and home decoration.",
+    "price": 850,
+    "currency": "INR",
+    "images": ["/images/products/wooden-bowl.svg"],
+    "artisanId": "artisan_2",
+    "category": "Home Decor",
+    "createdAt": "2025-02-10",
+    "stock": 8
+  },
+  {
+    "id": "prod_4",
+    "title": "Traditional Block Print Cotton Scarf",
+    "slug": "cotton-scarf-aarti",
+    "shortDescription": "Hand block printed cotton scarf with traditional motifs.",
+    "longDescription": "Soft cotton scarf featuring traditional block print patterns. Made using eco-friendly dyes and traditional printing techniques.",
+    "price": 650,
+    "currency": "INR",
+    "images": ["/images/products/cotton-scarf.svg"],
+    "artisanId": "artisan_1",
+    "category": "Textiles",
+    "createdAt": "2025-02-15",
+    "stock": 15
+  }
+]

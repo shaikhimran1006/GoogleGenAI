@@ -1,0 +1,10 @@
+{
+  "totalSales": 57000,
+  "totalOrders": 58,
+  "totalArtisans": 12,
+  "monthlySales": [
+    { "month": "Jan 2025", "value": 12000 },
+    { "month": "Feb 2025", "value": 18000 },
+    { "month": "Mar 2025", "value": 27000 }
+  ]
+}

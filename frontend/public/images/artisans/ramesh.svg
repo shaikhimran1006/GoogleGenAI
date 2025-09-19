@@ -1,0 +1,131 @@
+<svg width="400" height="400" viewBox="0 0 400 400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background with workshop setting -->
+  <rect width="400" height="400" fill="#F4F2E8"/>
+  
+  <!-- Workshop wall -->
+  <rect x="0" y="0" width="400" height="280" fill="#D2B48C"/>
+  
+  <!-- Wooden shelves with tools -->
+  <rect x="300" y="50" width="80" height="8" fill="#8B4513"/>
+  <rect x="300" y="100" width="80" height="8" fill="#8B4513"/>
+  <rect x="300" y="150" width="80" height="8" fill="#8B4513"/>
+  
+  <!-- Tools on shelves -->
+  <rect x="310" y="40" width="4" height="15" fill="#654321"/>
+  <rect x="320" y="35" width="4" height="20" fill="#654321"/>
+  <rect x="330" y="38" width="4" height="17" fill="#654321"/>
+  <rect x="340" y="42" width="4" height="13" fill="#654321"/>
+  
+  <!-- Wood shavings on floor -->
+  <ellipse cx="80" cy="270" rx="10" ry="3" fill="#DEB887"/>
+  <ellipse cx="120" cy="275" rx="8" ry="2" fill="#DEB887"/>
+  <ellipse cx="150" cy="272" rx="6" ry="2" fill="#DEB887"/>
+  
+  <!-- Workshop floor -->
+  <rect x="0" y="280" width="400" height="120" fill="#CD853F"/>
+  
+  <!-- Person figure - Ramesh the wood carver -->
+  <!-- Body in traditional kurta -->
+  <ellipse cx="200" cy="320" rx="40" ry="75" fill="#F5DEB3"/>
+  
+  <!-- Kurta details -->
+  <rect x="175" y="250" width="50" height="80" fill="#F5DEB3" rx="8"/>
+  <rect x="180" y="255" width="40" height="70" fill="#DDBF94" rx="5"/>
+  
+  <!-- Head and face -->
+  <circle cx="200" cy="210" r="28" fill="#CD853F"/>
+  
+  <!-- Hair and mustache -->
+  <path d="M 172 195 Q 200 185 228 195 Q 232 210 228 220 L 200 215 L 172 220 Q 168 210 172 195" fill="#2F1B14"/>
+  <!-- Mustache -->
+  <ellipse cx="200" cy="215" rx="12" ry="4" fill="#2F1B14"/>
+  
+  <!-- Eyes -->
+  <circle cx="190" cy="205" r="2" fill="#000"/>
+  <circle cx="210" cy="205" r="2" fill="#000"/>
+  
+  <!-- Nose -->
+  <ellipse cx="200" cy="210" rx="2" ry="4" fill="#A0522D"/>
+  
+  <!-- Smile -->
+  <path d="M 192 220 Q 200 225 208 220" stroke="#000" stroke-width="1" fill="none"/>
+  
+  <!-- Arms working -->
+  <ellipse cx="160" cy="270" rx="15" ry="35" fill="#CD853F" transform="rotate(-30 160 270)"/>
+  <ellipse cx="240" cy="270" rx="15" ry="35" fill="#CD853F" transform="rotate(30 240 270)"/>
+  
+  <!-- Hands -->
+  <circle cx="145" cy="290" r="10" fill="#CD853F"/>
+  <circle cx="255" cy="290" r="10" fill="#CD853F"/>
+  
+  <!-- Carving tools -->
+  <rect x="140" y="285" width="3" height="20" fill="#8B4513"/>
+  <rect x="140" y="283" width="8" height="4" fill="#C0C0C0"/>
+  
+  <!-- Wood piece being carved -->
+  <rect x="220" y="280" width="50" height="25" fill="#DEB887" rx="3"/>
+  <rect x="225" y="285" width="40" height="15" fill="#D2B48C" rx="2"/>
+  
+  <!-- Carved details on wood -->
+  <g fill="#8B4513" opacity="0.6">
+    <circle cx="235" cy="290" r="2"/>
+    <circle cx="245" cy="292" r="2"/>
+    <circle cx="255" cy="290" r="2"/>
+  </g>
+  
+  <!-- Legs -->
+  <rect x="185" y="320" width="15" height="60" fill="#8B4513"/>
+  <rect x="205" y="320" width="15" height="60" fill="#8B4513"/>
+  
+  <!-- Feet -->
+  <ellipse cx="192" cy="385" rx="10" ry="6" fill="#654321"/>
+  <ellipse cx="212" cy="385" rx="10" ry="6" fill="#654321"/>
+  
+  <!-- Border -->
+  <rect x="10" y="10" width="380" height="380" fill="none" stroke="#8B4513" stroke-width="3"/>
+  
+  <!-- Name panel -->
+  <rect x="50" y="30" width="300" height="85" fill="#FFFFFF" stroke="#8B4513" stroke-width="2" rx="10" opacity="0.95"/>
+  <text x="200" y="55" font-family="serif" font-size="28" font-weight="bold" text-anchor="middle" fill="#654321">Ramesh Kumar</text>
+  <text x="200" y="75" font-family="serif" font-size="16" text-anchor="middle" fill="#8B4513">Master Wood Carver</text>
+  <text x="200" y="92" font-family="serif" font-size="14" text-anchor="middle" fill="#696969">Temple Art & Sculptures</text>
+  <text x="200" y="108" font-family="serif" font-size="12" text-anchor="middle" fill="#654321">🏛️ Varanasi, Uttar Pradesh</text>
+  
+  <!-- Decorative corner elements -->
+  <polygon points="30,30 40,20 50,30 40,40" fill="#DEB887"/>
+  <polygon points="350,30 360,20 370,30 360,40" fill="#DEB887"/>
+  <polygon points="30,370 40,360 50,370 40,380" fill="#DEB887"/>
+  <polygon points="350,370 360,360 370,370 360,380" fill="#DEB887"/>
+  
+  <!-- Wood pattern on border -->
+  <g stroke="#8B4513" stroke-width="1" opacity="0.4">
+    <line x1="15" y1="140" x2="25" y2="140"/>
+    <line x1="15" y1="155" x2="25" y2="155"/>
+    <line x1="15" y1="170" x2="25" y2="170"/>
+    <line x1="15" y1="185" x2="25" y2="185"/>
+    <line x1="15" y1="200" x2="25" y2="200"/>
+    <line x1="15" y1="215" x2="25" y2="215"/>
+    <line x1="15" y1="230" x2="25" y2="230"/>
+    <line x1="15" y1="245" x2="25" y2="245"/>
+    <line x1="15" y1="260" x2="25" y2="260"/>
+    
+    <line x1="375" y1="140" x2="385" y2="140"/>
+    <line x1="375" y1="155" x2="385" y2="155"/>
+    <line x1="375" y1="170" x2="385" y2="170"/>
+    <line x1="375" y1="185" x2="385" y2="185"/>
+    <line x1="375" y1="200" x2="385" y2="200"/>
+    <line x1="375" y1="215" x2="385" y2="215"/>
+    <line x1="375" y1="230" x2="385" y2="230"/>
+    <line x1="375" y1="245" x2="385" y2="245"/>
+    <line x1="375" y1="260" x2="385" y2="260"/>
+  </g>
+  
+  <!-- Small carved piece showcase -->
+  <rect x="60" y="320" width="30" height="40" fill="#DEB887" rx="3"/>
+  <rect x="65" y="325" width="20" height="30" fill="#D2B48C" rx="2"/>
+  <g fill="#8B4513" opacity="0.7">
+    <circle cx="75" cy="340" r="3"/>
+    <rect x="70" y="335" width="10" height="3"/>
+    <rect x="72" y="345" width="6" height="8"/>
+  </g>
+</svg>

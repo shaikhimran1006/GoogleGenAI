@@ -1,0 +1,20 @@
+[
+  {
+    "id": "artisan_1",
+    "name": "Aarti",
+    "language": "Odia",
+    "bio": "Handloom weaver from Odisha. Specializes in Sambalpuri sarees in temple motifs.",
+    "profileImage": "/images/artisans/aarti.svg",
+    "location": "Bhubaneswar, Odisha",
+    "joinedAt": "2024-10-10"
+  },
+  {
+    "id": "artisan_2",
+    "name": "Ramesh",
+    "language": "Hindi",
+    "bio": "Wood carver crafting small temple sculptures and home decor.",
+    "profileImage": "/images/artisans/ramesh.svg",
+    "location": "Varanasi, Uttar Pradesh",
+    "joinedAt": "2024-11-05"
+  }
+]
