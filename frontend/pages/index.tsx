@@ -5,7 +5,7 @@ import { motion } from 'framer-motion';
 import Header from '../components/Header';
 import Footer from '../components/Footer';
 import ProductList from '../components/ProductList';
-import productsData from '../data/products.json';
+import { productAPI } from '../services/api';
 
 interface Product {
   id: string;
@@ -26,8 +26,20 @@ export default function Home() {
   const [featuredProducts, setFeaturedProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    // Use first 3 products as featured
-    setFeaturedProducts(productsData.slice(0, 3));
+    // Fetch products from API
+    const fetchProducts = async () => {
+      try {
+        const products = await productAPI.getAll();
+        // Use first 3 products as featured
+        setFeaturedProducts(products.slice(0, 3));
+      } catch (error) {
+        console.error('Failed to fetch products:', error);
+        // Fallback to empty array if API fails
+        setFeaturedProducts([]);
+      }
+    };
+
+    fetchProducts();
   }, []);
 
   return (

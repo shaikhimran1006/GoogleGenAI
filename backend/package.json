@@ -8,14 +8,24 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "express": "^4.18.2",
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.12.2",
     "cors": "^2.8.5",
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "multer": "^2.0.2",
+    "sharp": "^0.34.4",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "nodemon": "^3.0.2"
   },
-  "keywords": ["artisan", "marketplace", "api", "express"],
+  "keywords": [
+    "artisan",
+    "marketplace",
+    "api",
+    "express"
+  ],
   "author": "Stan It Care Team",
   "license": "MIT"
 }

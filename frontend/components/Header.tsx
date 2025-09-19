@@ -42,6 +42,12 @@ const Header = () => {
             >
               Dashboard
             </Link>
+            <Link 
+              href="/studio" 
+              className="text-gray-600 hover:text-primary-600 transition-colors duration-200 font-medium"
+            >
+              AI Studio
+            </Link>
           </nav>
 
           <div className="flex items-center space-x-4">

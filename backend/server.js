@@ -7,6 +7,9 @@ require('dotenv').config();
 const artisansRoutes = require('./routes/artisans');
 const productsRoutes = require('./routes/products');
 const ordersRoutes = require('./routes/orders');
+const imagesRoutes = require('./routes/images');
+const marketingRoutes = require('./routes/marketing');
+const socialRoutes = require('./routes/social');
 
 const app = express();
 const PORT = process.env.PORT || 3001;
@@ -23,6 +26,9 @@ app.use('/images', express.static(path.join(__dirname, 'public/images')));
 app.use('/api/artisans', artisansRoutes);
 app.use('/api/products', productsRoutes);
 app.use('/api/orders', ordersRoutes);
+app.use('/api/images', imagesRoutes);
+app.use('/api/marketing', marketingRoutes);
+app.use('/api/social', socialRoutes);
 
 // Health check endpoint
 app.get('/api/health', (req, res) => {
